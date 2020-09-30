@@ -621,7 +621,7 @@
 % Define an environment for cvcert
 \newenvironment{cvcerts}{%
   \vspace{\acvSectionContentTopSkip}
-  \vspace{-2mm}
+  \vspace{-2.0mm}
   \begin{center}
     \setlength\tabcolsep{0pt}
     \setlength{\extrarowheight}{0pt}
